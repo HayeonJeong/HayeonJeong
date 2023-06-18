@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hayeon Jeong</h1>
 
-- 🇰🇷 I’m currently studying in [Soongsil University](http://infocom.ssu.ac.kr/kor/main/), South Korea
+- 🇰🇷 I’m currently studying at [Soongsil University](http://infocom.ssu.ac.kr/kor/main/), South Korea
 
-- 🇺🇸 I was a visiting student in [University of California, Berkeley](https://bisp.berkeley.edu/) (Spring 2023)
+- 🇺🇸 I was a visiting student at [University of California, Berkeley](https://bisp.berkeley.edu/) (Spring 2023)
 
 - 👨‍💻 I’m majoring in [EECS](http://infocom.ssu.ac.kr/kor/undergraduate/0203.php)
 
