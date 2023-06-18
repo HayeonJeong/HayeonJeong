@@ -30,6 +30,10 @@
 
 - ☕️ Implementation of complicated **Data Structures**
 
+- ☕️ **Wordnet (Hypernym, Hyponym)**
+
 - 🐍 **Scheme Interpreter**
+
+- 🐍 **Ants & Somebees Game**
 
 - 🐍 **Dart Game Analysis** in terms of Data Science and Physics
