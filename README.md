@@ -4,7 +4,7 @@
 
 - 🇺🇸 I was a visiting student at [University of California, Berkeley](https://bisp.berkeley.edu/) (Spring 2023)
 
-- 👨‍💻 I’m majoring in [EECS](http://infocom.ssu.ac.kr/kor/undergraduate/0203.php)
+- 👩🏻‍💻 I’m majoring in [EECS](http://infocom.ssu.ac.kr/kor/undergraduate/0203.php)
 
 - 🌱 I’m interested in **ML**
 
@@ -24,7 +24,7 @@
 
 - Recently, I used ***Python, Java, Scheme, SQL*** a lot.
 
-<h3 align="left">Projects:</h3>
+<h3 align="left">Main Projects:</h3>
 
 - ☕️ **BYOW (Random Map Generator, Avatar Game like Pacman)** (haven't push the project yet)
 
