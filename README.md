@@ -24,6 +24,7 @@
 - Recently, I use ***Python, Pytorch*** a lot.
 
 <h3 align="left">Main Projects:</h3>
+
 - 🧠 **CCT** : Compact Convolutional Transformers
 
 - ☕️ **BYOW (Random Map Generator, Avatar Game like Pacman)** (haven't push the project yet)
