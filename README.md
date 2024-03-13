@@ -8,7 +8,7 @@
 
 - 🌱 I’m interested in **ML**, **RL**
 
-- 📚 CV link: []()
+- 📚 CV link: [GoogleDrive](https://drive.google.com/file/d/1XIkuNsKmUpuxmyJ3SY_JZOQnC81t7oW1/view?usp=sharing)
 
 - 📫 How to reach me **hayeon727@soongsil.ac.kr** | **reingel3@gmail.com**
 
@@ -24,10 +24,9 @@
 - Recently, I use ***Python, SQL*** a lot.
 
 <h3 align="left">Main Projects:</h3>
+- 🧠 **CCT** : Compact Convolutional Transformers
 
 - ☕️ **BYOW (Random Map Generator, Avatar Game like Pacman)** (haven't push the project yet)
-
-- ☕️ Implementation of complicated **Data Structures**
 
 - ☕️ **Wordnet (Hypernym, Hyponym)**
 
