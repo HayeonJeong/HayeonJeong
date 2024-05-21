@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **hayeon_727@naver.com** | hayeon727@soongsil.ac.kr | hayeonjeong727@gmail.com
 
+<br><br><br><br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -46,11 +48,9 @@
   </a> 
 </p>
 
-
-
-
-
 - Recently, I use ***Python, Pytorch, Tensorflow*** a lot.
+
+<br><br><br><br>
 
 <h3 align="left">Main Projects:</h3>
 
@@ -69,6 +69,8 @@
 - 🐍 **[Ants & Somebees Game](https://github.com/HayeonJeong/cs61a/tree/main/projects/ants)**
 
 - 🐍 **[Dart Game Analysis](https://github.com/HayeonJeong/physics77/tree/main/CapstoneProject/Final_ver)** in terms of Data Science and Physics
+
+<br><br><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
