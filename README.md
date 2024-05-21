@@ -6,7 +6,7 @@
 
 - 👩🏻‍💻 I’m majoring in [EECS](http://infocom.ssu.ac.kr/kor/undergraduate/0203.php)
 
-- 🌱 I’m interested in **ML**, **RL**
+- 🌱 I’m interested in **ML**, **DL**
 
 - 📚 CV link: [GoogleDrive](https://drive.google.com/file/d/1XIkuNsKmUpuxmyJ3SY_JZOQnC81t7oW1/view?usp=sharing)
 
