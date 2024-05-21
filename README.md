@@ -4,7 +4,7 @@
 
 - 🇺🇸 I was a visiting student at [University of California, Berkeley](https://bisp.berkeley.edu/) (Spring 2023)
 
-- 👩🏻‍💻 I’m majoring in [Electronic Information](http://infocom.ssu.ac.kr/kor/undergraduate/0203.php)
+- 👩🏻‍💻 I’m majoring in [Electronic and Information Engineering](http://infocom.ssu.ac.kr/kor/undergraduate/0203.php)
 
 - 🌱 I’m interested in **ML**, **DL**
 
