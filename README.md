@@ -56,9 +56,9 @@
 
 - 🧠 **[CCT](https://github.com/HayeonJeong/CCT)** : Compact Convolutional Transformers
 
-- 🧠 **[Exploring various CNN models](https://github.com/HayeonJeong/ann)**
+- 🧠 **[Analyzing various CNN models](https://github.com/HayeonJeong/2024_Spring_ANN)**
 
-- 🧠 **[Exploring various Machine Learning models](https://github.com/HayeonJeong/ML_2023fall)**
+- 🧠 **[Exploring various Machine Learning models](https://github.com/HayeonJeong/2023_Fall_ML)**
   
 - 🧠 **[HowAreUToday](https://github.com/orgs/HowAreUToday/repositories)** : Interactive Diary using ChatGPT API and LangChain
 
