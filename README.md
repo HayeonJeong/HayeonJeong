@@ -6,7 +6,7 @@
 
 - 👩🏻‍💻 I’m majoring in [Electronic and Information Engineering](http://infocom.ssu.ac.kr/kor/undergraduate/0203.php)
 
-- 🌱 I’m interested in **ML**, **DL**
+- 🌱 I’m interested in **AI (Computer Vision, AI Security, Generative Models)**
 
 - 📚 CV link: [GoogleDrive](https://drive.google.com/file/d/1XIkuNsKmUpuxmyJ3SY_JZOQnC81t7oW1/view?usp=sharing)
 
@@ -59,6 +59,8 @@
 - 🧠 **[Exploring various CNN models](https://github.com/HayeonJeong/ann)**
 
 - 🧠 **[Exploring various Machine Learning models](https://github.com/HayeonJeong/ML_2023fall)**
+  
+- 🧠 **[HowAreUToday](https://github.com/orgs/HowAreUToday/repositories)** : Interactive Diary using ChatGPT API and LangChain
 
 - ☕️ **BYOW (Random Map Generator, Avatar Game like Pacman)** (haven't push the project yet)
 
