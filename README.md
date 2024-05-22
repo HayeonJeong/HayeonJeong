@@ -66,7 +66,7 @@
 
 - ☕️ **Wordnet (Hypernym, Hyponym)** [link1](https://github.com/HayeonJeong/cs61b/tree/main/proj/proj1a) [link2](https://github.com/HayeonJeong/cs61b/tree/main/proj/proj1b)
 
-- 🐍 **Scheme Interpreter**
+- 🐍 **[Scheme Interpreter](https://github.com/HayeonJeong/cs61a/tree/main/projects/scheme)**
 
 - 🐍 **[Ants & Somebees Game](https://github.com/HayeonJeong/cs61a/tree/main/projects/ants)**
 
