@@ -28,6 +28,9 @@
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+</a>&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;
@@ -62,9 +65,9 @@
   
 - 🧠 **[HowAreUToday](https://github.com/orgs/HowAreUToday/repositories)** : Interactive Diary using ChatGPT API and LangChain
 
-- ☕️ **BYOW (Random Map Generator, Avatar Game like Pacman)** (haven't push the project yet)
+- ☕️ **BYOW (Random Map Generator, Avatar Game like Pacman)**
 
-- ☕️ **Wordnet (Hypernym, Hyponym)** [link1](https://github.com/HayeonJeong/cs61b/tree/main/proj/proj1a) [link2](https://github.com/HayeonJeong/cs61b/tree/main/proj/proj1b)
+- ☕️ **Wordnet (Hypernym, Hyponym)**
 
 - 🐍 **[Scheme Interpreter](https://github.com/HayeonJeong/cs61a/tree/main/projects/scheme)**
 
