@@ -8,9 +8,9 @@
 
 - 🌱 I’m interested in **AI (Computer Vision, AI Security, Generative Models)**
 
-- 📚 CV link: [GoogleDrive](https://drive.google.com/file/d/1XIkuNsKmUpuxmyJ3SY_JZOQnC81t7oW1/view?usp=sharing)
+- 📚 CV link: [GoogleDrive]([https://drive.google.com/file/d/1XIkuNsKmUpuxmyJ3SY_JZOQnC81t7oW1/view?usp=sharing](https://drive.google.com/file/d/1vmPQQ2Ce4aWUtJTEn_RP-ro-A1daY6-F/view?usp=drive_link))
 
-- 📫 How to reach me **hayeon_727@naver.com** | hayeon727@soongsil.ac.kr | hayeonjeong727@gmail.com
+- 📫 How to reach me **[hayeon_727@naver.com](mailto:hayeon_727@naver.com)** | [hayeon727@soongsil.ac.kr](mailto:hayeon727@soongsil.ac.kr) | [hayeonjeong727@gmail.com](mailto:hayeonjeong727@gmail.com)
 
 <br>
 
