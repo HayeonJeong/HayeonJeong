@@ -10,7 +10,7 @@
 
 - 📚 CV link: [GoogleDrive](https://drive.google.com/file/d/1AU9WKeL0cuXud9Rx3XtC0GAWBNmpXkys/view?usp=sharing)
 
-- 📫 How to reach me **[hayeon_727@naver.com](mailto:hayeon_727@naver.com)** | [hayeon727@soongsil.ac.kr](mailto:hayeon727@soongsil.ac.kr) | [hayeonjeong727@gmail.com](mailto:hayeonjeong727@gmail.com)
+- 📫 How to reach me **[hayeonj.kr@gmail.com](mailto:hayeonj.kr@gmail.com)** | [hayeon727@soongsil.ac.kr](mailto:hayeon727@soongsil.ac.kr)
 
 <br>
 
