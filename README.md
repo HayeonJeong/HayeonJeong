@@ -1,4 +1,4 @@
-# Hi there, I'm [Hayeon Jeong] 👋
+# Hi there, I'm Hayeon Jeong 👋
 
 <p align="left">
   <a href="[https://scholar.google.com/YOUR_SCHOLAR_ID](https://scholar.google.com/citations?hl=ko&user=3BPlPxAAAAAJ)">
@@ -15,29 +15,22 @@
 ---
 
 ### 🎓 Education
-- **[M.S.] in [Department]** | [Yonsei University], [South Korea] | *March, 2025 — Present*
-- **[B.S.] in [Department]** | [Soongsil University], [South Korea] | *March, 2020 — Feb, 2025*
+- **M.S. in School of Integrated Technology** | Yonsei University, South Korea (*March, 2025 — Present*)
+- **B.S. in School of Electronic and Information Engineering** | Soongsil University, South Korea (*March, 2020 — Feb, 2025*)
 
 ### 🔍 Research Interests
-- **Primary:** [Generative Models, Multimodal Learning, Model Unlearning]
-- **Secondary:** [Memorization, ASR]
+- **Primary:** Generative Models, Multimodal Learning, Model Unlearning
+- **Secondary:** Memorization, ASR
 
 ### 📚 Selected Publications
-> Full list is available on [Google Scholar]([https://scholar.google.com/YOUR_SCHOLAR_ID](https://scholar.google.com/YOUR_SCHOLAR_ID](https://scholar.google.com/citations?hl=ko&user=3BPlPxAAAAAJ)).
+> Full list is available on [Google Scholar](https://scholar.google.com/citations?hl=ko&user=3BPlPxAAAAAJ).
 
 - **[Dominating vs. Dominated: Generative Collapse in Diffusion Models]**
-  - **[Hayeon Jeong]**, Jong-Seok Lee
+  - **Hayeon Jeong**, Jong-Seok Lee
   - *[arXiv]*, 2025
-  - [[Paper]]([link](https://arxiv.org/abs/2512.20666))
+  - [Paper](https://arxiv.org/abs/2512.20666)
 
 - **[Infrared Thermal-Guided Adversarial Patch Defense for Robust Visible Person Detectors]**
-  - Sohee Park, **[Hayeon Jeong]**, Daeseon Choi
+  - Sohee Park, **Hayeon Jeong**, Daeseon Choi
   - *[AVSS]*, 2025
-  - [[Paper]]([link](https://ieeexplore.ieee.org/abstract/document/11149954))
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=dracula" alt="Your Stats" />
-</p>
+  - [Paper](https://ieeexplore.ieee.org/abstract/document/11149954)
