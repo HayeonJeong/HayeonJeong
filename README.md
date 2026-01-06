@@ -1,5 +1,9 @@
 # Hi there, I'm Hayeon Jeong 👋
 
+I am a **Master's student** in [MCML Group](https://mcml.yonsei.ac.kr/) at [**Yonsei University**](https://maps.app.goo.gl/NRtndJLbFDHCh4vm7), fortunate to be advised by [**Prof. Jong-Seok Lee**](https://scholar.google.com/citations?user=YGwwt6cAAAAJ&hl=en).
+
+My research interests lie in trustworthy and robust deep learning, particularly in image-based generative models. I study how generative models can be designed and analyzed to ensure reliability, robustness, and controlled behavior, aiming to bridge the gap between powerful generation capabilities and real-world trustworthiness.
+
 <p align="left">
   <a href="[https://scholar.google.com/YOUR_SCHOLAR_ID](https://scholar.google.com/citations?hl=ko&user=3BPlPxAAAAAJ)">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
