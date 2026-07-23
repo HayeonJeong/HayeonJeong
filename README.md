@@ -2,7 +2,7 @@
 
 I am an M.S. student in the [MCML Group](https://mcml.yonsei.ac.kr/) at [Yonsei University](https://maps.app.goo.gl/NRtndJLbFDHCh4vm7), advised by [Prof. Jong-Seok Lee](https://scholar.google.com/citations?user=YGwwt6cAAAAJ&hl=en), and a Visiting Graduate Researcher at the Computational Machine Learning Lab, UCLA, advised by [Prof. Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/).
 
-My research centers on image-based generative models — how they can be designed, steered, and understood to be reliable and controllable. I am particularly interested in text-to-image diffusion, reinforcement learning for generation, mechanistic interpretability, and AI safety, with the broader goal of bridging powerful generation capabilities and real-world trustworthiness.
+My research centers on image-based generative models — how they can be understood, steered, and made reliable. I am particularly interested in text-to-image diffusion, reinforcement learning for generation, mechanistic interpretability, and AI safety, with the broader goal of bridging powerful generation capabilities and real-world trustworthiness.
 
 <p align="left">
   <a href="https://scholar.google.com/citations?hl=ko&user=3BPlPxAAAAAJ">
