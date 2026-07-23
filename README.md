@@ -1,6 +1,6 @@
 # Hayeon Jeong
 
-I am an M.S. student in the [MCML Group](https://mcml.yonsei.ac.kr/) at [Yonsei University](https://maps.app.goo.gl/NRtndJLbFDHCh4vm7), advised by [Prof. Jong-Seok Lee](https://scholar.google.com/citations?user=YGwwt6cAAAAJ&hl=en), and a Visiting Graduate Researcher at the Computational Machine Learning Lab, UCLA, advised by [Prof. Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/).
+I am an M.S. student in the [MCML Group](https://mcml.yonsei.ac.kr/) at [Yonsei University](https://maps.app.goo.gl/NRtndJLbFDHCh4vm7), advised by [Prof. Jong-Seok Lee](https://scholar.google.com/citations?user=YGwwt6cAAAAJ&hl=en), and a Visiting Graduate Researcher at the Computational Machine Learning Lab, UCLA, advised by [Prof. Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/). I am applying for Ph.D. programs in Fall 2026.
 
 My research centers on image-based generative models — how they can be understood, steered, and made reliable. I am particularly interested in text-to-image diffusion, reinforcement learning for generation, mechanistic interpretability, and AI safety, with the broader goal of bridging powerful generation capabilities and real-world trustworthiness.
 
@@ -26,18 +26,17 @@ My research centers on image-based generative models — how they can be underst
 - **Generative Models:** text-to-image diffusion, reinforcement learning for generation, visual reward modeling
 - **Trustworthy AI:** mechanistic interpretability, AI safety and reliability, robustness
 
-### Selected Publications
-> Full list is available on [Google Scholar](https://scholar.google.com/citations?hl=ko&user=3BPlPxAAAAAJ).
+### Publications
+> Full list is available on Google Scholar [(link)](https://scholar.google.com/citations?hl=ko&user=3BPlPxAAAAAJ).
 
-- **Dominating vs. Dominated: Concept-Level Generative Collapse in Diffusion Models**
+- **Dominating vs. Dominated: Concept-Level Generative Collapse in Diffusion Models** [(paper)](https://arxiv.org/abs/2512.20666)
   - **Hayeon Jeong**, Jong-Seok Lee
   - *ACCV 2026 (under review)* · arXiv preprint, 2025
-  - [Paper](https://arxiv.org/abs/2512.20666)
 
-- **Infrared Thermal-Guided Adversarial Patch Defense for Robust Visible Person Detectors**
+- **Infrared Thermal-Guided Adversarial Patch Defense for Robust Visible Person Detectors** [(paper)](https://ieeexplore.ieee.org/abstract/document/11149954)
   - Sohee Park, **Hayeon Jeong**, Daeseon Choi
   - *IEEE AVSS*, 2025
-  - [Paper](https://ieeexplore.ieee.org/abstract/document/11149954)
 
-### Selected Project
-- **[Lightweight DenseNet for EMNIST](https://github.com/HayeonJeong/2024_Spring_ANN)** — Designed a compact DenseNet variant that beats ResNet-50 accuracy on EMNIST with roughly 10x fewer parameters.
+### Project
+- **Lightweight DenseNet for EMNIST** [(code)](https://github.com/HayeonJeong/2024_Spring_ANN)
+  - Designed a compact DenseNet variant that beats ResNet-50 accuracy on EMNIST with roughly 10x fewer parameters.
