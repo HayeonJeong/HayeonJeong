@@ -26,7 +26,7 @@ My research centers on image-based generative models — how they can be underst
 - **Generative Models:** text-to-image diffusion, reinforcement learning for generation, visual reward modeling
 - **Trustworthy AI:** mechanistic interpretability, AI safety and reliability, robustness
 
-### Publications [(scholar)](https://scholar.google.com/citations?hl=ko&user=3BPlPxAAAAAJ)
+### Publications
 - **Dominating vs. Dominated: Concept-Level Generative Collapse in Diffusion Models** [(paper)](https://arxiv.org/abs/2512.20666)
   - **Hayeon Jeong**, Jong-Seok Lee
   - *ACCV 2026 (under review)* · arXiv preprint, 2025
