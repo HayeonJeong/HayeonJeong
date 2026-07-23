@@ -1,8 +1,8 @@
-# Hi there, I'm Hayeon Jeong 👋
+# Hayeon Jeong
 
-I am a **Master's student** in [MCML Group](https://mcml.yonsei.ac.kr/) at [**Yonsei University**](https://maps.app.goo.gl/NRtndJLbFDHCh4vm7), fortunate to be advised by [**Prof. Jong-Seok Lee**](https://scholar.google.com/citations?user=YGwwt6cAAAAJ&hl=en).
+I am an M.S. student in the [MCML Group](https://mcml.yonsei.ac.kr/) at [Yonsei University](https://maps.app.goo.gl/NRtndJLbFDHCh4vm7), advised by [Prof. Jong-Seok Lee](https://scholar.google.com/citations?user=YGwwt6cAAAAJ&hl=en), and a Visiting Graduate Researcher at the Computational Machine Learning Lab, UCLA, advised by [Prof. Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/). I am applying for Ph.D. programs in Fall 2026.
 
-My research interests lie in trustworthy and robust deep learning, particularly in image-based generative models. I study how generative models can be designed and analyzed to ensure reliability, robustness, and controlled behavior, aiming to bridge the gap between powerful generation capabilities and real-world trustworthiness.
+My research centers on image-based generative models — how they can be designed, steered, and understood to be reliable and controllable. I am particularly interested in text-to-image diffusion, reinforcement learning for generation, mechanistic interpretability, and AI safety, with the broader goal of bridging powerful generation capabilities and real-world trustworthiness.
 
 <p align="left">
   <a href="https://scholar.google.com/citations?hl=ko&user=3BPlPxAAAAAJ">
@@ -18,23 +18,26 @@ My research interests lie in trustworthy and robust deep learning, particularly 
 
 ---
 
-### 🎓 Education
-- **M.S. in School of Integrated Technology** | Yonsei University, South Korea (*March, 2025 — Present*)
-- **B.S. in School of Electronic and Information Engineering** | Soongsil University, South Korea (*March, 2020 — Feb, 2025*)
+### Education
+- **M.S. in the School of Integrated Technology**, Yonsei University, South Korea (Mar. 2025 — Present)
+- **B.S. in Electronic and Information Engineering**, Soongsil University, South Korea (Mar. 2020 — Feb. 2025), *Magna Cum Laude*
 
-### 🔍 Research Interests
-- **Primary:** Generative Models, Multimodal Learning, Model Unlearning
-- **Secondary:** Memorization, ASR
+### Research Interests
+- **Generative Models:** text-to-image diffusion, reinforcement learning for generation, visual reward modeling
+- **Trustworthy AI:** mechanistic interpretability, AI safety and reliability, robustness
 
-### 📚 Selected Publications
+### Selected Publications
 > Full list is available on [Google Scholar](https://scholar.google.com/citations?hl=ko&user=3BPlPxAAAAAJ).
 
-- **[Dominating vs. Dominated: Generative Collapse in Diffusion Models]**
+- **Dominating vs. Dominated: Concept-Level Generative Collapse in Diffusion Models**
   - **Hayeon Jeong**, Jong-Seok Lee
-  - *[arXiv]*, 2025
+  - *ACCV 2026 (under review)* · arXiv preprint, 2025
   - [Paper](https://arxiv.org/abs/2512.20666)
 
-- **[Infrared Thermal-Guided Adversarial Patch Defense for Robust Visible Person Detectors]**
+- **Infrared Thermal-Guided Adversarial Patch Defense for Robust Visible Person Detectors**
   - Sohee Park, **Hayeon Jeong**, Daeseon Choi
-  - *[AVSS]*, 2025
+  - *IEEE AVSS*, 2025
   - [Paper](https://ieeexplore.ieee.org/abstract/document/11149954)
+
+### Selected Project
+- **[Lightweight DenseNet for EMNIST](https://github.com/HayeonJeong/2024_Spring_ANN)** — Designed a compact DenseNet variant that beats ResNet-50 accuracy on EMNIST with roughly 10x fewer parameters.
