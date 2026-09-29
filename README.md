@@ -29,7 +29,7 @@ My research centers on image-based generative models — how they can be underst
 ### Publications
 - **Dominating vs. Dominated: Concept-Level Generative Collapse in Diffusion Models** [(paper)](https://arxiv.org/abs/2512.20666)
   - **Hayeon Jeong**, Jong-Seok Lee
-  - *ACCV 2026 (under review)* · arXiv preprint, 2025
+  - *ACCV*, 2026
 
 - **Infrared Thermal-Guided Adversarial Patch Defense for Robust Visible Person Detectors** [(paper)](https://ieeexplore.ieee.org/abstract/document/11149954)
   - Sohee Park, **Hayeon Jeong**, Daeseon Choi
